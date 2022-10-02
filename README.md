@@ -5,3 +5,4 @@ Questions I Solved and practiced
 - Leet Code
 - Code Wars
 - Code chef
+- Binary Search
